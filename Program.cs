@@ -3,6 +3,11 @@ using System.Data.Common;
 //перегрузка операторов
 namespace Lesson_5
 {
+
+
+    /// <summary>
+    /// dgxdfsgdfgdzfg
+    /// </summary>
     public class Int
     {
         protected int _number;
